@@ -1,7 +1,6 @@
-package com.example.challenges.InMemoryCache;
+package com.example.challenges.PracticalDesign;
 
 import java.util.Map;
-import java.util.Objects;
 import java.util.concurrent.ConcurrentHashMap;
 
 public class InMemoryCache {

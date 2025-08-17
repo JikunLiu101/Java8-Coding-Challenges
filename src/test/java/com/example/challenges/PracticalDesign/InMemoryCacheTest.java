@@ -1,4 +1,4 @@
-package com.example.challenges.InMemoryCache;
+package com.example.challenges.PracticalDesign;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
