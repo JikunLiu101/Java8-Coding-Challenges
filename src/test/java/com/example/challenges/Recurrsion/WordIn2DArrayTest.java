@@ -1,6 +1,5 @@
-package com.example.challenges.WordIn2DArray;
+package com.example.challenges.Recurrsion;
 
-import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

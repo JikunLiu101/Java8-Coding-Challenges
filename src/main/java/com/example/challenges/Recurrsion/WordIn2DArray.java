@@ -1,4 +1,4 @@
-package com.example.challenges.WordIn2DArray;
+package com.example.challenges.Recurrsion;
 
 public class WordIn2DArray {
     public boolean exist(char[][] board, String word) {
