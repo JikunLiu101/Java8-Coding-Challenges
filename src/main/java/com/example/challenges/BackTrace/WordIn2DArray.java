@@ -1,8 +1,8 @@
-package com.example.challenges.Recurrsion;
+package com.example.challenges.BackTrace;
 
 public class WordIn2DArray {
     public boolean exist(char[][] board, String word) {
-        if (board == null || board.length == 0 || board[0].length == 0 || word == null || word.length() == 0) {
+        if (board == null || board.length == 0 || board[0].length == 0 || word == null || word.isEmpty()) {
             return false;
         }
 

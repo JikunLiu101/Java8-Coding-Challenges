@@ -1,4 +1,4 @@
-package com.example.challenges.Recurrsion;
+package com.example.challenges.BackTrace;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
